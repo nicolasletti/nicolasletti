@@ -1,12 +1,12 @@
 # 👩🏻‍💻 Nicolas Letti
 
-**`Desenvolvedor Júnior`**
+**`Junior Dev`**
 
-Me chamo "[Nicolas Oswaldo Letti](https://www.instagram.com/wnletti?igsh=bjFhbzJrNWptc3By)", tenho 17 anos e sou estudante de Ciências da Computação na PUCPR. Tenho desenvolvido habilidades em programação, resolução de problemas e projetos voltados à tecnologia. Estou sempre em busca de novos desafios e aprendizados na área de desenvolvimento de software.
+My name is"[Nicolas Oswaldo Letti](https://www.instagram.com/wnletti?igsh=bjFhbzJrNWptc3By)", I am 17 years old and a Computer Science student at PUCPR. I have been developing skills in programming, problem-solving, and technology-driven projects. I am always seeking new challenges and opportunities to learn in the field of software development.
 
 --- 
 
-### 👾 Linguagens e Tecnologias
+### 👾 Languages and Technologies
 <img 
     align="left" 
     alt="HTML"
@@ -39,11 +39,21 @@ Me chamo "[Nicolas Oswaldo Letti](https://www.instagram.com/wnletti?igsh=bjFhbzJ
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width="30px"
+    style="paddind-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+          
+    
+/>
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <p>
 <img
