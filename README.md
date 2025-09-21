@@ -44,10 +44,8 @@ My name is"[Nicolas Oswaldo Letti](https://www.instagram.com/wnletti?igsh=bjFhbz
     alt="MySQL"
     title="MySQL"
     width="30px"
-    style="paddind-right: 10px;"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-          
-    
 />
 
 <br/>
